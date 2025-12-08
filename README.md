@@ -50,7 +50,7 @@ I’m always happy to learn from others and contribute to cool ideas.
 
 ## 📫 Contact
 
-- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/your-username-here)  
+- LinkedIn: [My LinkedIn profile](www.linkedin.com/in/santiago-andermatten-465212342)  
 - Personal portfolio: coming soon
 
 ---
@@ -108,6 +108,6 @@ Me gusta aprender de otras personas y aportar a ideas copadas.
 
 ## 📫 Contacto
 
-- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/your-username-here)  
+- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/santiago-andermatten-465212342)  
 - Portfolio personal: próximamente
 
