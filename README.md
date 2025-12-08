@@ -47,13 +47,6 @@ I’m **open to collaborating** on interesting projects, especially related to:
 I’m always happy to learn from others and contribute to cool ideas.
 
 ---
-
-## 📫 Contact
-
-- LinkedIn: [My LinkedIn profile](www.linkedin.com/in/santiago-andermatten-465212342)  
-- Personal portfolio: coming soon
-
----
 ---
 
 ### 👋 Hola, soy Santiago
@@ -103,11 +96,3 @@ Estoy **abierto a colaborar** en proyectos interesantes, especialmente relaciona
 - Primeros pasos en Machine Learning
 
 Me gusta aprender de otras personas y aportar a ideas copadas.
-
----
-
-## 📫 Contacto
-
-- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/santiago-andermatten-465212342)  
-- Portfolio personal: próximamente
-
