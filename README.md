@@ -54,13 +54,14 @@ I’m always happy to learn from others and contribute to cool ideas.
 - Personal portfolio: coming soon
 
 ---
+---
 
 ### 👋 Hola, soy Santiago
 
 🎓 Estudiante de Ingeniería en Informática  
 🧑‍💻 Desarrollador backend jr en camino a ser fullstack (y futuro aprendiz de Machine Learning)
 
-Este GitHub es mi **laboratorio de proyectos**: acá vas a encontrar código de estudio, experimentos, prototipos y proyectos personales como **GoCooking** y **Study Project**, donde pruebo distintas tecnologías y formas de aprender.
+Este GitHub es mi **laboratorio de proyectos**: acá vas a encontrar código de estudio, experimentos, prototipos y proyectos personales, donde pruebo distintas tecnologías y formas de aprender.
 
 ---
 
