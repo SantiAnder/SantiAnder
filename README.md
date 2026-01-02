@@ -1,98 +1,85 @@
-### 👋 Hi, I'm Santiago
+<h2 align="left">Hi! I'm Santiago Andermatten</h2>
 
-🎓 Computer Engineering student  
-🧑‍💻 Junior backend developer on my way to fullstack (and future ML learner)
+###
 
-This GitHub is my **project lab**: here you'll find study code, experiments, prototypes, and personal projects, where I try out different technologies and ways of learning.
+<div align="center">
+  <img height="200" src="https://i.redd.it/12qyupc24fkd1.gif"  />
+</div>
 
----
+###
 
-## 🧪 About me
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=About%20me%F0%9F%98%8E&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
-- Mainly focused on **backend**, but working towards becoming confidently **fullstack**.
-- I enjoy building useful things and understanding what’s going on “under the hood”.
-- I try to make my code: **fun, interesting, and smart** (or at least on the way there).
+###
 
----
+<p align="left">- I'm a Computer Engineer student at UCSE and a Junior Software Developer making my way to become a Fullstack Developer. <br>- I enjoy building useful projects and I'm mainly focused on Backend, but I don't mind doing and learning Front  too.<br>- My focus is to learn coding while doing College projects or experiments of my own interests.</p>
 
-## 🛠️ Tech stack
+###
 
-**Mostly working with:**
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=Tech%20Stack%F0%9F%96%A5%EF%B8%8F&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
-- **Backend:** .NET, Python, Go, Java  
-- **Frontend:** JavaScript  
-- **Databases:** SQL Server, MongoDB  
-- **Tools:** Git & GitHub, Docker  
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="40" alt="goland logo"  />
+</div>
 
-## 📂 What you’ll find here
+###
 
-- Personal and study projects.  
-- APIs, small services, and proof-of-concept experiments.  
-- Code that reflects my learning process, not just polished results.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-> This is a place to learn, break things, fix them, and learn again.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-## 🤝 Collaboration
+###
 
-I’m **open to collaborating** on interesting projects, especially related to:
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=Contact%20me%F0%9F%93%B2&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
-- Backend / APIs  
-- Productivity or educational tools  
-- First steps into Machine Learning
+###
 
-I’m always happy to learn from others and contribute to cool ideas.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+</div>
 
----
----
+###
 
-### 👋 Hola, soy Santiago
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph.svg">
+</picture>
 
-🎓 Estudiante de Ingeniería en Informática  
-🧑‍💻 Desarrollador backend jr en camino a ser fullstack (y futuro aprendiz de Machine Learning)
-
-Este GitHub es mi **laboratorio de proyectos**: acá vas a encontrar código de estudio, experimentos, prototipos y proyectos personales, donde pruebo distintas tecnologías y formas de aprender.
-
----
-
-## 🧪 Sobre mí
-
-- Me enfoco principalmente en el **backend**, pero estoy trabajando para manejar tanto Backend como Frontend.  
-- Me gusta construir cosas útiles y entender qué hay “escondido en el código”.  
-- Intento que mi código sea: **divertido, interesante e inteligente** (o al menos, en camino a eso).
-
----
-
-## 🛠️ Tech stack
-
-**Principalmente trabajando con:**
-
-- **Backend:** .NET, Python, Go, Java  
-- **Frontend:** JavaScript  
-- **Bases de datos:** SQL Server, MongoDB  
-- **Herramientas:** Git y GitHub, Docker  
-
----
-
-## 📂 Qué vas a encontrar acá
-
-- Proyectos personales y de estudio.  
-- APIs, pequeños servicios y pruebas de concepto.  
-- Código que muestra mi proceso de aprendizaje, no solo el resultado final.
-
-> Este es un lugar para aprender, romper cosas, arreglarlas y volver a aprender.
-
----
-
-## 🤝 Colaboración
-
-Estoy **abierto a colaborar** en proyectos interesantes, especialmente relacionados con:
-
-- Backend / APIs  
-- Herramientas de productividad o educativas  
-- Primeros pasos en Machine Learning
-
-Me gusta aprender de otras personas y aportar a ideas copadas.
+###
