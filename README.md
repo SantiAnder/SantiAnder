@@ -3,20 +3,24 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.redd.it/12qyupc24fkd1.gif"  />
+  <img height="400" src="https://i.redd.it/12qyupc24fkd1.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=About%20me%F0%9F%98%8E&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=About%20me%F0%9F%98%8E&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
-<p align="left">- I'm a Computer Engineer student at UCSE and a Junior Software Developer making my way to become a Fullstack Developer. <br>- I enjoy building useful projects and I'm mainly focused on Backend, but I don't mind doing and learning Front  too.<br>- My focus is to learn coding while doing College projects or experiments of my own interests.</p>
+<h3 align="left">- I'm a Computer Engineer student at UCSE and a Junior Software Developer making my way to become a Fullstack Developer. <br>- I enjoy building useful projects and I'm mainly focused on Backend, but I don't mind doing and learning Front  too.<br>- My focus is to learn coding while doing College projects or experiments of my own interests.</h3>
 
 ###
+
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=Tech%20Stack%F0%9F%96%A5%EF%B8%8F&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
@@ -62,6 +66,8 @@
 
 ###
 
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=Contact%20me%F0%9F%93%B2&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
 </div>
@@ -75,6 +81,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph-dark.svg">
