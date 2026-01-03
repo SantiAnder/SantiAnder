@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.redd.it/12qyupc24fkd1.gif"  />
+  <img height="400" src=""  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=About%20me%F0%9F%98%8E&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=About%20me%F0%9F%98%8E&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -75,9 +75,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/santiago-andermatten-465212342" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ander284" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="santiandermatten@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
