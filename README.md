@@ -1,22 +1,29 @@
-### 👋 Hi, I'm Santiago
+<br clear="both">
+<h1 align="left">Hi! I'm Santiago Andermatten</h1>
 
 🎓 Computer Engineering student  
 🧑‍💻 Junior backend developer on my way to fullstack
 
 Welcome to my GitHub profile! Here you'll find study code, experiments, prototypes, and personal projects, where I try out different technologies and ways of learning.
 
----
+###
 
-## 🧪 About me
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
+</div>
 
 - Mainly focused on **backend**, but working towards becoming confidently **fullstack**.
 - I enjoy learning while building useful projects
 
----
+<br clear="both">
 
-## 🛠️ Tech stack
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=twinkling&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
-**Mostly working with:**
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -40,7 +47,9 @@ Welcome to my GitHub profile! Here you'll find study code, experiments, prototyp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&section=header&reversal=false&text=About%20Me%F0%9F%8E%93&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&descSize=20&descAlign=69&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
 ###
 
