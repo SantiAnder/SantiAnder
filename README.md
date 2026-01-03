@@ -1,17 +1,16 @@
 ### 👋 Hi, I'm Santiago
 
 🎓 Computer Engineering student  
-🧑‍💻 Junior backend developer on my way to fullstack (and future ML learner)
+🧑‍💻 Junior backend developer on my way to fullstack
 
-This GitHub is my **project lab**: here you'll find study code, experiments, prototypes, and personal projects, where I try out different technologies and ways of learning.
+Welcome to my GitHub profile! Here you'll find study code, experiments, prototypes, and personal projects, where I try out different technologies and ways of learning.
 
 ---
 
 ## 🧪 About me
 
 - Mainly focused on **backend**, but working towards becoming confidently **fullstack**.
-- I enjoy building useful things and understanding what’s going on “under the hood”.
-- I try to make my code: **fun, interesting, and smart** (or at least on the way there).
+- I enjoy learning while building useful projects
 
 ---
 
@@ -19,80 +18,60 @@ This GitHub is my **project lab**: here you'll find study code, experiments, pro
 
 **Mostly working with:**
 
-- **Backend:** .NET, Python, Go, Java  
-- **Frontend:** JavaScript  
-- **Databases:** SQL Server, MongoDB  
-- **Tools:** Git & GitHub, Docker  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
 ---
 
-## 📂 What you’ll find here
+###
 
-- Personal and study projects.  
-- APIs, small services, and proof-of-concept experiments.  
-- Code that reflects my learning process, not just polished results.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+</div>
 
-> This is a place to learn, break things, fix them, and learn again.
-
----
-
-## 🤝 Collaboration
-
-I’m **open to collaborating** on interesting projects, especially related to:
-
-- Backend / APIs  
-- Productivity or educational tools  
-- First steps into Machine Learning
-
-I’m always happy to learn from others and contribute to cool ideas.
-
----
----
-
-### 👋 Hola, soy Santiago
-
-🎓 Estudiante de Ingeniería en Informática  
-🧑‍💻 Desarrollador backend jr en camino a ser fullstack (y futuro aprendiz de Machine Learning)
-
-Este GitHub es mi **laboratorio de proyectos**: acá vas a encontrar código de estudio, experimentos, prototipos y proyectos personales, donde pruebo distintas tecnologías y formas de aprender.
+###
 
 ---
 
-## 🧪 Sobre mí
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SantiAnder/SantiAnder/output/pacman-contribution-graph.svg">
+</picture>
 
-- Me enfoco principalmente en el **backend**, pero estoy trabajando para manejar tanto Backend como Frontend.  
-- Me gusta construir cosas útiles y entender qué hay “escondido en el código”.  
-- Intento que mi código sea: **divertido, interesante e inteligente** (o al menos, en camino a eso).
-
----
-
-## 🛠️ Tech stack
-
-**Principalmente trabajando con:**
-
-- **Backend:** .NET, Python, Go, Java  
-- **Frontend:** JavaScript  
-- **Bases de datos:** SQL Server, MongoDB  
-- **Herramientas:** Git y GitHub, Docker  
-
----
-
-## 📂 Qué vas a encontrar acá
-
-- Proyectos personales y de estudio.  
-- APIs, pequeños servicios y pruebas de concepto.  
-- Código que muestra mi proceso de aprendizaje, no solo el resultado final.
-
-> Este es un lugar para aprender, romper cosas, arreglarlas y volver a aprender.
-
----
-
-## 🤝 Colaboración
-
-Estoy **abierto a colaborar** en proyectos interesantes, especialmente relacionados con:
-
-- Backend / APIs  
-- Herramientas de productividad o educativas  
-- Primeros pasos en Machine Learning
-
-Me gusta aprender de otras personas y aportar a ideas copadas.
+###
